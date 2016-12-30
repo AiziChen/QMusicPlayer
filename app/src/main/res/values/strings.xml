@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">QMusicPlayer</string>
+    <string name="action_settings">Settings</string>
+    <string name="can_not_played_music">无法播放的音乐</string>
+</resources>

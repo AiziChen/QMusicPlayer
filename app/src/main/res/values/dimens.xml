@@ -1,0 +1,5 @@
+<resources>
+    <dimen name="app_bar_height">60dp</dimen>
+    <dimen name="ng_bt_margint_right">18dp</dimen>
+    <dimen name="text_size">18dp</dimen>
+</resources>
